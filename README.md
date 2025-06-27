@@ -1,6 +1,6 @@
 
 <hr />
-<h1>Credit Default Risk Classifier</h1>
+<h1>Credit Risk Assessment Model / Loan Default Predictor </h1>
 <p>A machine learning project to predict borrower default risk using Logistic Regression and Decision Tree classifiers.</p>
 <h2>Project Overview</h2>
 <ul>
